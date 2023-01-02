@@ -1,0 +1,12 @@
+/Users/dan/gits/LearnCSharp/BinaryGap/obj/Debug/net7.0/BinaryGap.csproj.AssemblyReference.cache
+/Users/dan/gits/LearnCSharp/BinaryGap/obj/Debug/net7.0/BinaryGap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dan/gits/LearnCSharp/BinaryGap/obj/Debug/net7.0/BinaryGap.AssemblyInfoInputs.cache
+/Users/dan/gits/LearnCSharp/BinaryGap/obj/Debug/net7.0/BinaryGap.AssemblyInfo.cs
+/Users/dan/gits/LearnCSharp/BinaryGap/obj/Debug/net7.0/BinaryGap.csproj.CoreCompileInputs.cache
+/Users/dan/gits/LearnCSharp/BinaryGap/bin/Debug/net7.0/BinaryGap.deps.json
+/Users/dan/gits/LearnCSharp/BinaryGap/bin/Debug/net7.0/BinaryGap.dll
+/Users/dan/gits/LearnCSharp/BinaryGap/bin/Debug/net7.0/BinaryGap.pdb
+/Users/dan/gits/LearnCSharp/BinaryGap/obj/Debug/net7.0/BinaryGap.dll
+/Users/dan/gits/LearnCSharp/BinaryGap/obj/Debug/net7.0/refint/BinaryGap.dll
+/Users/dan/gits/LearnCSharp/BinaryGap/obj/Debug/net7.0/BinaryGap.pdb
+/Users/dan/gits/LearnCSharp/BinaryGap/obj/Debug/net7.0/ref/BinaryGap.dll
