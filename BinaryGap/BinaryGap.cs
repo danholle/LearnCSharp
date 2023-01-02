@@ -4,18 +4,21 @@ namespace BinaryGap
 {
     public class Solution
     {
-        enum State 
-        {
-            Need1,
-            Got1,
-            InGap
-        }
-
         public int solution(int N)
         {
-            int n = N;
-            int gap = 0;
-            int maxgap = 0;
+            // We scan the bit string N, viewing the rightmost (least significant) bit,
+            // updating counts and state, and shifting right to expose the next bit.
+            int n = N; // The shifted bit string
+            int gap = 0; // When we're inside a gap, we count the 0's here.
+            int maxgap = 0; // When we hit an end of gap, we keep the count if it's largest,
+
+            // The state of the scan (at the top of the while loop)
+            enum State 
+            {
+                Need1, // We haven't encountered a 1 yet so no gaps in sight
+                Got1,  // We HAVE seen a 1 so now we are looking for a gap to start
+                InGap  // We are in a gap, counting how many 0's there are
+            }
             State state = State.Need1;
 
             while (n!=0)
@@ -49,8 +52,8 @@ namespace BinaryGap
                 }
                 n = n >> 1;
 
-            }
+            } // while still have bits to look at
             return maxgap;
-        }
-    }
-}
+        } // solution method
+    } // Solution class
+} // namespace
