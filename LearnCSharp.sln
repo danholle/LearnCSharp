@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryGap", "BinaryGap\Bina
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryGap.Tests", "BinaryGap.Tests\BinaryGap.Tests.csproj", "{1F3D7E3B-EBC5-4F8A-854A-794F5A898E0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrListLen", "ArrListLen\ArrListLen.csproj", "{27AD59C4-5CBD-4409-A62E-4E4618CA799F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrListLen.Tests", "ArrListLen.Tests\ArrListLen.Tests.csproj", "{3238194A-0A6F-4400-ACD0-089D6D5116F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{1F3D7E3B-EBC5-4F8A-854A-794F5A898E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F3D7E3B-EBC5-4F8A-854A-794F5A898E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F3D7E3B-EBC5-4F8A-854A-794F5A898E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AD59C4-5CBD-4409-A62E-4E4618CA799F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AD59C4-5CBD-4409-A62E-4E4618CA799F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AD59C4-5CBD-4409-A62E-4E4618CA799F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AD59C4-5CBD-4409-A62E-4E4618CA799F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3238194A-0A6F-4400-ACD0-089D6D5116F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3238194A-0A6F-4400-ACD0-089D6D5116F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3238194A-0A6F-4400-ACD0-089D6D5116F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3238194A-0A6F-4400-ACD0-089D6D5116F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
